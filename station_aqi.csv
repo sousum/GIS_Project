@@ -1,0 +1,120 @@
+station_id,station_name,latitude,longitude,aqi
+site_254,"Tata Stadium, Jorapokhar - JSPCB",23.707909,86.414670,102.0
+site_259,"APIIC Kancharapalem, Visakhapatnam - APPCB",17.738569,83.264656,
+site_258,"Tirumala, Tirupati - APPCB",13.67,79.35,
+site_307,"Sanjay Palace, Agra - UPPCB",27.19865833,78.00598056,51.0
+site_1395,"Indira Colony Vistar, Pali - RSPCB",25.771061, 73.340227,106.0
+site_303,"Opp GPO Civil Lines, Nagpur - MPCB",21.152875,79.0517531,24.0
+site_1392,"Civil Lines,  Ajmer - RSPCB",26.470859,74.646594,71.0
+site_1391,"RIICO Ind. Area III, Bhiwadi, Rajasthan - RSPCB",28.194909,76.862296,278.0
+site_298,"Zoo Park, Hyderabad - TSPCB",17.349694,78.451437,70.0
+site_168,"Bandra, Mumbai - MPCB",19.041847 ,72.865513,
+site_1398,"Lajpat Nagar, Moradabad - UPPCB",28.825341,78.7213009,165.0
+site_308,"Maninagar, Ahmedabad - GPCB",23.002657,72.591912,78.0
+site_1410,"GM Office, Brajrajnagar - OSPCB",21.8004996,83.8396977,150.0
+site_1406,"Secretariat, Amaravati - APPCB",16.5150833,80.5181667,
+site_272,"Central School, Lucknow - CPCB",26.8821003,80.9302753,317.0
+site_163,"Peenya, Bengaluru - CPCB",13.0270199,77.494094,54.0
+site_1404,"Bhopal Chauraha, Dewas - MPPCB",22.9682591,76.064118,123.0
+site_1424,"Jawaharlal Nehru Stadium, Delhi - DPCC",28.5828503,77.2321778,159.0
+site_1429,"Nehru Nagar, Delhi - DPCC",28.5639543,77.2587868,121.0
+site_1422,"Dwarka-Sector 8, Delhi - DPCC ",28.5206826,76.8023871,152.0
+site_106,"IGI Airport Terminal - 3, New Delhi - IMD",28.5627763,77.1180053,
+site_111,"Sector - 62, Noida, UP - IMD",28.6245479,77.3577104,
+site_107,"Pusa, New Delhi - IMD",28.610304,77.0996943,
+site_109,"Lodhi Road, New Delhi - IMD",28.5918245,77.2273074,
+site_263,"Sector- 16A, Faridabad, Haryana - HSPCB",28.4088421,77.3099081,45.0
+site_117,"ITO, New Delhi - CPCB",28.6316945,77.2494387,131.0
+site_134,"Police Commissionerate, Jaipur - RSPCB",26.9164092,75.7994901,73.0
+site_253,"Punjab Agricultural University, Ludhiana - PPCB",30.9028,75.8086,92.0
+site_251,"ICRISAT Patancheru, Hyderabad - TSPCB",17.4342359,78.4170318,65.0
+site_255,"RIMT University, Mandi Gobindgarh - PPCB",30.649961,76.331442,
+site_1399,"Anand Kala Kshetram, Rajamahendravaram - APPCB",16.9872867,81.7363176,30.0
+site_299,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",23.5404352,87.2892225,
+site_115,"NSIT Dwarka, New Delhi - CPCB",28.60909,77.0325413,252.0
+site_1393,"Adarsh Nagar, Jaipur - RSPCB",26.902909,75.836853,105.0
+site_1416,"Padmapukur, Howrah - WBPCB",22.5687319,88.2797276,
+site_1438,"Civil Line, Jalandhar - PPCB",31.321907,75.578914,113.0
+site_277,"Lalbagh, Lucknow - CPCB",26.8458805,80.9365541,136.0
+site_252,"Plammoodu, Thiruvananthapuram - Kerala PCB",8.5149093,76.9435879,68.0
+site_301,"Anand Vihar, Delhi - DPCC",28.6527398,77.2977933,164.0
+site_302,"Solapur, Solapur - MPCB",17.6599188,75.9063906,100.0
+site_1447,KSPCB Hubballi,14.2173832 ,75.1906953,
+site_105,"North Campus, DU, New Delhi - IMD",28.6573814,77.1585447,
+site_1405,"Nishant Ganj, Lucknow - UPPCB",26.871428,80.957145,37.0
+site_294,"Sanathnagar, Hyderabad - TSPCB",17.4559458,78.4332152,88.0
+site_276,"Nehru Nagar, Kanpur - UPPCB",26.4703136,80.3229863,50.0
+site_116,"East Arjun Nagar, Delhi - CPCB",28.6556017,77.2859318,
+site_1400,"Mahakaleshwar Temple, Ujjain - MPPCB",23.182719 ,75.768218 ,126.0
+site_1396,"Shastri Nagar, Jaipur - RSPCB",26.9502929,75.730943,85.0
+site_257,"PWD Grounds, Vijayawada - APPCB",16.507014,80.627767,78.0
+site_166,"Sanegurava Halli, Bengaluru - KSPCB",12.990328,77.5431385,
+site_113,"Shadipur, New Delhi - CPCB",28.6514781,77.1473105,64.0
+site_158,"Muzaffarpur Collectorate,Muzaffarpur - BSPCB",26.1209,85.3647,82.0
+site_146,"Vikas Sadan, Gurgaon, Haryana - HSPCB",28.4501238,77.0263051,329.0
+site_164,"BWSSB Kadabesanahalli, Bengaluru - CPCB",12.9352049,77.6814488,82.0
+site_275,"IDA Pashamylaram, Hyderabad - TSPCB",17.5316895,78.218939,60.0
+site_1431,"Patparganj, Delhi - DPCC",28.6310495,77.2846218,142.0
+site_1433,"Bandhavgar Colony, Satna - MPPCB",24.58434363,80.8549414,88.0
+site_1401,"Vindhyachal STPS, Singrauli - MPPCB",24.108970,82.645580,174.0
+site_262,"Central University, Hyderabad - TSPCB",17.460103,78.334361,80.0
+site_274,"Howrah, Howrah - WBPCB",22.5565568,87.895755,
+site_260,"GVM Corporation, Visakhapatnam - APPCB",17.72,83.3,
+site_292,"Karve Road Pune, Pune - MPCB",18.5011743,73.8165527,100.0
+site_271,"Chandrapur, Chandrapur - MPCB",19.645324,77.6345232,119.0
+site_1394,"Shrinath Puram, Kota - RSPCB",25.14389,75.821256,91.0
+site_136,"Collectorate, Jodhpur - RSPCB",26.268249,73.0193853,153.0
+site_147,"MD University, Rohtak, Haryana - HSPCB",28.870083,76.620500,21.0
+site_153,"Sector - 125, Noida, UP - UPPCB",28.5447608,77.3231257,145.0
+site_144,"Vasundhara, Ghaziabad, UP - UPPCB",28.6603346,77.3572563,149.0
+site_1390,"Moti Doongri, Alwar, Rajasthan - RSPCB",27.554793,76.611536,50.0
+site_103,"CRRI Mathura Road, New Delhi - IMD",28.5512005,77.2735737,
+site_114,"IHBAS, Dilshad Garden,New Delhi - CPCB",28.6802747,77.2011573,99.0
+site_295,"MIDC Khutala, Chandrapur - MPCB",19.9775302,79.2337086,97.0
+site_1408,"Talcher Coalfields,Talcher - OSPCB",20.9360711,85.1707021,87.0
+site_159,"Collectorate, Gaya - BSPCB",24.7955,84.9994,
+site_157,"IGSC Planetarium Complex, Patna - BSPCB",25.5941,85.1376,64.0
+site_162,"BTM Layout, Bengaluru - CPCB",12.9135218,77.5950804,
+site_125,"Punjabi Bagh, Delhi - DPCC",28.6670856,77.1301247,124.0
+site_1419,"Ward-32 Bapupara, Siliguri - WBPCB",26.6883049,88.412668,109.0
+site_293,"Alandur Bus Depot, Chennai - CPCB",12.9099161,80.1076538,
+site_198,"More Chowk Waluj, Aurangabad - MPCB",19.8389439,75.244448,97.0
+site_306,"Manali, Chennai - CPCB",13.164544,80.26285,47.0
+site_1421,"Dr. Karni Singh Shooting Range, Delhi - DPCC",28.4997315,77.2649067,175.0
+site_1435,"Vivek Vihar, Delhi - DPCC",28.6687803,77.3130982,157.0
+site_1420,"Ashok Vihar, Delhi - DPCC",28.6957202,77.1812947,167.0
+site_1432,"Sonia Vihar, Delhi - DPCC",28.67795,77.29868,137.0
+site_1423,"Jahangirpuri, Delhi - DPCC",28.7258373,77.1605631,169.0
+site_1430,"Rohini, Delhi - DPCC",28.7407056,77.0577492,52.0
+site_1427,"Najafgarh, Delhi - DPCC",28.5108561,76.7093948,172.0
+site_1449,KSPCB UDUPI,13.335832,74.7889757,77.0
+site_118,"DTU, New Delhi - CPCB",28.7500499,77.1112615,140.0
+site_273,"Ardhali Bazar, Varanasi - UPPCB",25.3505986,82.9083074,162.0
+site_161,"Sector-6, Panchkula - HSPCB ",30.7057778,76.8531805555555,
+site_199,"Bollaram Industrial Area, Hyderabad - TSPCB",17.540891,78.358528,88.0
+site_256,"Golden Temple, Amritsar - PPCB",31.62,74.876512,92.0
+site_304,"Gangapur Road, Nashik - MPCB",20.0073285,73.7762427,68.0
+site_296,"Rabindra Bharati University, Kolkata - WBPCB",22.5824635,88.3572447,
+site_300,"Haldia, Haldia - WBPCB",22.06047,88.109737,58.0
+site_1402,"Sector-2 Industrial Area, Pithampur - MPPCB",22.624758,75.675238,138.0
+site_1397,"Ashok Nagar, Udaipur - RSPCB",24.5886166,73.6321397,129.0
+site_1403,"Sector-D Industrial Area, Mandideep - MPPCB",23.108440,77.511428,145.0
+site_305,"Pimpleshwar Mandir, Thane - MPCB",19.192056,72.9585188,135.0
+site_165,"City Railway Station, Bengaluru - KSPCB",12.9756843,77.5660749,118.0
+site_124,"R K Puram, New Delhi - DPCC",28.5646102,77.1670103,254.0
+site_122,"Mandir Marg, New Delhi - DPCC",28.6372688,77.2005604,174.0
+site_119,"Sirifort, New Delhi - CPCB",28.5504249,77.2159377,263.0
+site_104,"Burari Crossing, New Delhi - IMD",28.7256504,77.2011573,
+site_108,"Aya Nagar, New Delhi - IMD",28.4706914,77.1099364,
+site_1418,"Asanol Court Area, Asanol - WBPCB",23.685297,86.945968,126.0
+site_1437,"Model Town, Patiala - PPCB",30.349388,76.366642,90.0
+site_261,"Airoli, Navi Mumbai - MPCB",19.1494,72.9986,98.0
+site_297,"Talkatora District Industries Center, Lucknow - CPCB",26.83399722,80.8917361,244.0
+site_1425,"Major Dhyan Chand National Stadium, Delhi - DPCC",28.6125027,77.2351994,140.0
+site_1426,"Narela, Delhi - DPCC",28.8446874,77.0332666,140.0
+site_1428,"Okhla Phase-2, Delhi - DPCC",28.5366411,77.2664587,140.0
+site_1434,"Wazirpur, Delhi - DPCC",28.701616,77.164238,460.0
+site_1448,KSPCB Manglore,12.8879373,74.8500778,
+site_309,"Victoria, Kolkata - WBPCB",22.5448082,88.3403691,71.0
+site_288,"Velachery Res. Area, Chennai - CPCB",13.0052189,80.2398125,78.0
+site_1450,"Kalal Majra, Khanna - PPCB",30.736056 ,76.209694,
